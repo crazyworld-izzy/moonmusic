@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/rSy.jpg"
+    "START_IMG_URL", "https://envs.sh/sE4.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/rSy.jpg"
+    "PING_IMG_URL", "https://envs.sh/sE4.jpg"
 )
-PLAYLIST_IMG_URL = "https://envs.sh/rSy.jpg"
-STATS_IMG_URL = "https://envs.sh/rSy.jpg"
-TELEGRAM_AUDIO_URL = "https://envs.sh/rSy.jpg"
-TELEGRAM_VIDEO_URL = "https://envs.sh/rSy.jpg"
-STREAM_IMG_URL = "https://envs.sh/rSy.jpg"
-SOUNCLOUD_IMG_URL = "https://envs.sh/rSy.jpg"
-YOUTUBE_IMG_URL = "https://envs.sh/rSy.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://envs.sh/rSy.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://envs.sh/rSy.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://envs.sh/rSy.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/sE4.jpg"
+STATS_IMG_URL = "https://envs.sh/sE4.jpg"
+TELEGRAM_AUDIO_URL = "https://envs.sh/sE4.jpg"
+TELEGRAM_VIDEO_URL = "https://envs.sh/sE4.jpg"
+STREAM_IMG_URL = "https://envs.sh/sE4.jpg"
+SOUNCLOUD_IMG_URL = "https://envs.sh/sE4.jpg"
+YOUTUBE_IMG_URL = "https://envs.sh/sE4.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://envs.sh/sE4.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://envs.sh/sE4.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://envs.sh/sE4.jpg"
 
 
 def time_to_seconds(time):
