@@ -99,7 +99,7 @@ async def get_thumb(videoid):
             width=30,
         )
         draw.text(
-            (36, 670),
+           (255, 255, 255), 
             "00:00",
             (255, 255, 255),
             font=font,
